@@ -1,2 +1,2 @@
-# Face_Detection
+# Face Detection
 With Haar Cascade in OpenCV

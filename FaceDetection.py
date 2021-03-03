@@ -1,4 +1,4 @@
-"""
+
 # OpenCV-Python Tutorials
 # https://docs.opencv.org/2.4/modules/objdetect/doc/cascade_classification.html
 # https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_tutorials.html
@@ -47,7 +47,7 @@ for (x , y , w , h) in face_coordinates:
 cv2.imshow('Cute Rhugweda',img)
 cv2.waitKey() # Image will stay until any key is pressed
 
-"""
+
 
 
 
